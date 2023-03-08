@@ -1,2 +1,2 @@
-#!/bim/bash
-ls -la
+#!/bin/bash
+ls -a
