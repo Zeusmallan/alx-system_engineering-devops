@@ -1,1 +1,1 @@
-This repository is about shell scripting
+Task 0. Where am I?
