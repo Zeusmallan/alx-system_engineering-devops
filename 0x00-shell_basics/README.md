@@ -1,1 +1,2 @@
-A script that prints the absolute path name of the current working directory
+pwd A script that prints the absolute path name of the current working directory
+ls Display the contents list of your current directory
