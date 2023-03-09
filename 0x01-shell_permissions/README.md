@@ -11,3 +11,4 @@ chmod 753 hello script that sets the mode of the file hello to this:-rwxr-x-wx
 chmod --reference=olleh hello Write a script that sets the mode of the file hello the same as olleh’s mode.
 chnod -R +111 */ Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 mkdir -m 751 my_dir Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+chgrp hello school Write a script that changes the group owner to school for the file hello
