@@ -1,2 +1,2 @@
 #!/bin/bash
-chnod -R + 111 */
+chnod -R +111 */
