@@ -12,3 +12,4 @@ chmod --reference=olleh hello Write a script that sets the mode of the file hell
 chnod -R +111 */ Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 mkdir -m 751 my_dir Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 chgrp hello school Write a script that changes the group owner to school for the file hello
+chown vincent:staff * Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
