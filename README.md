@@ -13,3 +13,4 @@ Task 11. Lists
 Task 12. File type
 Task 13. We are symbols, and inhabit symbols
 Task 14. Copy HTML files
+Task 15. Let’s move
