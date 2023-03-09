@@ -7,3 +7,4 @@ ls -la Display current directory contents
 mkdir A script that creates a directory
 mv Move the file
 rm Delete the file
+rmdir Delete the directory
