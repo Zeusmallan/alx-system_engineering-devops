@@ -17,3 +17,5 @@ tr -d 'Cc' Create a script that removes all letters c and C from input
 rev script that reverse its input.
 cut -d ':'-f  1, 6 /etc/passwd | sort script that displays all users and their home directories, sorted by users.
 find . -empty | rev | cut -d '/' -f 1 | rev  script that displays all users and their home directories, sorted by users.
+find . -type f -name "*.gif* | rex | cut -d "/" -f 1 | cut -d '.' 2- |rev| LC_AL
+L=C sort .f script that lists all the files with a .gif extension in the current directory and all its sub-directories
