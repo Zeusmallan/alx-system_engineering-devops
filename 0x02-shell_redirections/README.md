@@ -9,3 +9,5 @@ find . -type f -name '*.js' -delete script that deletes all the regular files (n
 ls -t . | head Create a script that displays the 10 newest files in the current directory.
 sort | uniq -u Create a script that takes a list of words as input and prints only words that appear exactly once
 grep "bin*" /etc/passwd | wc -l Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+grep -A 3 "root" /etc/passwd Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
