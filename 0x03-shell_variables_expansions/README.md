@@ -6,3 +6,4 @@ set script that lists all local variables and environment variables, and functio
 BEST=School script that creates a new local variable.
 export BEST="School" Script that creates a global variable
 echo $((TRUEKNOWLEDGE+128)) script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+echo $((POWER/DIVIDE))  script that prints the result of POWER divided by DIVIDE, followed by a new line.
