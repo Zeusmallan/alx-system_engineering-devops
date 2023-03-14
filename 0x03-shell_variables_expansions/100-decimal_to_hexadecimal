@@ -1,2 +1,2 @@
 #!/bin/bash
-hexString = $DECIMAL.toString(16)
+printf '%x\n' $DECIMAL
