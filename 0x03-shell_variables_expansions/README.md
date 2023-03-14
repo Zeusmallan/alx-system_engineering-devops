@@ -4,3 +4,4 @@ echo $PATH | tr ':' '\n' | wc -l Create a script that counts the number of direc
 prinenv  script that lists environment variables.
 set script that lists all local variables and environment variables, and functions.
 BEST=School script that creates a new local variable.
+BEST="School" Script that creates a global variable
