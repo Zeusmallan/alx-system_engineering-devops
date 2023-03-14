@@ -7,4 +7,5 @@ BEST=School script that creates a new local variable.
 export BEST="School" Script that creates a global variable
 echo $((TRUEKNOWLEDGE+128)) script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 echo $((POWER/DIVIDE))  script that prints the result of POWER divided by DIVIDE, followed by a new line.
-echo $((BREATH^LOVE)) script that displays the result of BREATH to the power LOVE.
+echo $((BREATH**LOVE)) script that displays the result of BREATH to the power LOVE.
+echo $((2#BINARY)) script that converts a number from base 2 to base 10.
