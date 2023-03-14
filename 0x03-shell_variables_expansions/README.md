@@ -3,3 +3,4 @@ echo "hello $USER" Create a script that prints hello user, where user is the cur
 echo $PATH | tr ':' '\n' | wc -l Create a script that counts the number of directories in the PATH
 prinenv  script that lists environment variables.
 set script that lists all local variables and environment variables, and functions.
+BEST=School script that creates a new local variable.
